@@ -8,7 +8,7 @@ Make sure you have **Python 3** and `git` installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/vipersec-xss.git]
+   git clone https://github.com/VIPER8483/vipersec-xss.git
    cd vipersec-xss
 
 
